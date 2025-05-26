@@ -1,0 +1,2 @@
+.env
+*.class (seleciona todos os arquivos com essa extensão)
